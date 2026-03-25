@@ -63,5 +63,5 @@ We recommend the following settings for the best experience, especially if you h
   
 We would love to hear your [feedback](https://github.com/decameronnissues)!  
 You can read more about the planetary system on [Wikipedia](https://en.wikipedia.org/wiki/Solar_System).  
-This project is maintained by <a href='https://github.com/decameronn' target="_blank">Decameron</a>.
+This project is maintained by <a href='https://github.com/weightofcode' target="_blank">Arcane Pixel</a>.
 </div>
